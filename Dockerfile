@@ -1,4 +1,4 @@
-FROM centos:7.8
+FROM centos
 ENV MYPATH /usr/local
 WORKDIR $MYPATH
  
